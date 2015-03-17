@@ -1,0 +1,5 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" 
+Service="gov.hhs.cdc.cs.campaigns.pledge.PledgeService.PledgeService" 
+CodeBehind="gov.hhs.cdc.cs.campaigns.pledge.PledgeService.PledgeService.svc.cs" %>
+
+

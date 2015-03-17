@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="gov.hhs.cdc.cs.campaigns.pledge.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefaultRecordCount" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">49</Value>
+    </Setting>
+    <Setting Name="PledgeDB" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=SQD-201\QSRV1;Initial Catalog=CDC_TOOLS;Persist Security Info=True;User ID=CDC_TOOLS_USER;Password=k1b1_!w1%KGCt7-j=UJZ4R9Q;&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=SQD-201\QSRV1;Initial Catalog=CDC_TOOLS;Persist Security Info=True;User ID=CDC_TOOLS_USER;Password=k1b1_!w1%KGCt7-j=UJZ4R9Q;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

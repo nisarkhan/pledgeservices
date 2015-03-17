@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dehm_cms/!svn/ver/1876/trunk/ContentServices/gov.hhs.cdc.cs.campaigns.pledge/Implementation
+END
+Constants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dehm_cms/!svn/ver/1872/trunk/ContentServices/gov.hhs.cdc.cs.campaigns.pledge/Implementation/Constants.cs
+END
+Campaign.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dehm_cms/!svn/ver/1872/trunk/ContentServices/gov.hhs.cdc.cs.campaigns.pledge/Implementation/Campaign.cs
+END
+PlaceMark.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dehm_cms/!svn/ver/1876/trunk/ContentServices/gov.hhs.cdc.cs.campaigns.pledge/Implementation/PlaceMark.cs
+END
+KMLResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dehm_cms/!svn/ver/2506/trunk/ContentServices/gov.hhs.cdc.cs.campaigns.pledge/Implementation/KMLResponse.cs
+END
+Pledger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dehm_cms/!svn/ver/1872/trunk/ContentServices/gov.hhs.cdc.cs.campaigns.pledge/Implementation/Pledger.cs
+END
+PledgeLevel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/dehm_cms/!svn/ver/1872/trunk/ContentServices/gov.hhs.cdc.cs.campaigns.pledge/Implementation/PledgeLevel.cs
+END

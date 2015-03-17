@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dehm_cms/!svn/ver/1872/trunk/ContentServices/gov.hhs.cdc.cs.campaigns.pledge/JsonWrapper
+END
+JSONPBindingElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dehm_cms/!svn/ver/1872/trunk/ContentServices/gov.hhs.cdc.cs.campaigns.pledge/JsonWrapper/JSONPBindingElement.cs
+END
+JSONPBindingExtension.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/dehm_cms/!svn/ver/1872/trunk/ContentServices/gov.hhs.cdc.cs.campaigns.pledge/JsonWrapper/JSONPBindingExtension.cs
+END
+JSONPEncoderFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dehm_cms/!svn/ver/1872/trunk/ContentServices/gov.hhs.cdc.cs.campaigns.pledge/JsonWrapper/JSONPEncoderFactory.cs
+END
+JSONPBehavior.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dehm_cms/!svn/ver/1872/trunk/ContentServices/gov.hhs.cdc.cs.campaigns.pledge/JsonWrapper/JSONPBehavior.cs
+END
